@@ -1,5 +1,7 @@
+
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,4 +37,137 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.todos-container {
+  margin: 20px;
+}
+
+.footer {
+  width: 100%;
+  background-color: #958e8ee6;
+  color: white;
+}
+.bg-navbar-custom {
+  background-color: #c7c7c7;
+}
+.color_custom{
+  background-color:#c7c7c7 ;
+}
+.todos-list-container {
+  min-height: 212px;
+  margin-bottom: 100px;
+  width: 488px;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 3%;
+  padding: 20px;
+}
+
+.todos-list-heading {
+  margin: 20px;
+}
+
+hr {
+  border: 2px dotted;
+}
+.about-container {
+  width: 503px;
+  margin-left: 397px;
+  min-height: 81vh;
+  margin-top: 30px;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+.add-todo-container{
+  width: 300px;
+  border: 2px dotted;
+  border-radius: 2%;
+  padding: 20px;
+}
+
+.class_quote{
+  padding: 10px 200px;
+  color: white;
+  font-size: 20px;
+  
+}
+
+.form-class{
+  padding-left: 480px;
+}
+.input-class{
+  margin: 10px;
+}
+.search-box{
+  margin: 30px 0px;
+}
+
+.main-page{
+  background-image:url('https://picsum.photos/1920/1080');
+  height: 92vh;
+  display: grid;
+  grid-template-rows: 30% 20% 15% 20% 15%;
+  text-align: center;
+}
+
+.middle-page{
+  color: white;
+  font-size: 100px;
+
+}
+
+.lower-middle-page{
+  color: white;
+  font-size: 40px;
+  padding-top: 40px;
+}
+
+/* Bookmark related stuff */
+.bookmark-list-container{
+  min-height: 212px;
+  margin-bottom: 100px;
+  width: 80%;
+  margin-top: 50px;
+  border: 2px solid black;
+  border-radius: 3%;
+  padding: 20px;
+  
+}
+
+.bookmark-items-container{
+
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25% ;
+}
+
+.bookmark-item{
+  text-align: center;
+  font-size: 26px;
+  margin:  20px;
+  background-color: aqua;
+}
+.bookmark-item-ele{
+  border: 2px solid brown;
+}
+.delete-bookmark{
+  font-size: 10px;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  width: 30px;
+  text-align: center;
+}
+.delete_bookmark_ele{
+  background-color: #bfa0a0;
+}
+.bookmark-link{
+  background-color: #a79898;
+  color: white;
+}
+
+.bookmark-list-heading{
+  font-size: 35px;
 }
