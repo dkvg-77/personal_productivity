@@ -30,18 +30,18 @@ A website that I created for myself that can be used in my daily use. I created 
 
 ![new_1](https://github.com/dkvg-77/personal_productivity/assets/122727663/0c3045fa-2c03-4fd8-8fd1-340c1ef7ec90)  
 
-
+ --- 
     
 ![new_2](https://github.com/dkvg-77/personal_productivity/assets/122727663/120c4a5a-ea58-4c24-88c0-9f4424162da2)  
 
-
+ --- 
          
 ![new_3](https://github.com/dkvg-77/personal_productivity/assets/122727663/5da64a34-8abc-4f1b-9cf6-2e725b22ea3b)  
 
-
+ --- 
         
 ![new_4](https://github.com/dkvg-77/personal_productivity/assets/122727663/bf97d49f-d555-4046-9bc1-33c466df1cab)  
 
-
+ --- 
       
 ![new_5](https://github.com/dkvg-77/personal_productivity/assets/122727663/b78b69ab-3a97-4aa3-a466-3f04c63fe776)
