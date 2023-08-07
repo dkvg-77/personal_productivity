@@ -5,8 +5,8 @@ A website that I created for myself that can be used in my daily use. I created 
 --> A random background image, random quote, and shows time and date on the home page.  
 --> Todo list and bookmark list.  
 --> Weather Report of the city you search.  
---> My profile in the About section.   
---> Not given importance to the web design. (Still in progress)  
+--> My profile in the About section. (Still in progress)   
+--> Not given importance to the front end design. (Still in progress)  
 
 ## Technology used:   
 --> React   
